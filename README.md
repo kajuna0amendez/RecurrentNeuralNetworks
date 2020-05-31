@@ -1,2 +1,2 @@
-# recurrent_neural_networks
+# Recurrent Neural Networks
 Different RNN implementations
